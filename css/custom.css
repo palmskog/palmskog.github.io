@@ -23,3 +23,7 @@ img.profile{
 .step-detail{
     margin-left: 45px;
 }
+
+ul.step-detail{
+    margin-left: 25px;
+}
