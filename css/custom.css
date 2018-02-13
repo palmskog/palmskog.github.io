@@ -16,8 +16,10 @@ img{
     border-radius: 100%;
 }
 
+.container{
+    max-width: 900px;
+}
+
 .step-detail{
     margin-left: 45px;
-    max-width: 900px;
-    display:block;
 }
