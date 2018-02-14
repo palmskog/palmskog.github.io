@@ -27,3 +27,7 @@ img.profile{
 ul.step-detail{
     margin-left: 25px;
 }
+
+li.step-detail:not(:last-child) {
+    margin-bottom: 2px;
+}
