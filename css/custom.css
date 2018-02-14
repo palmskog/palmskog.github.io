@@ -28,11 +28,11 @@ ul.step-detail{
     margin-left: 25px;
 }
 
-li.step-detail{
+ul.step-detail li{
     margin-top: 10px;
     border:1px solid grey;
 }
 
-li.step-detail:first-child {
+ul.step-detail li:first-child{
     margin-top:0;
 }
