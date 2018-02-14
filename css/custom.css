@@ -29,8 +29,8 @@ ul.step-detail{
 }
 
 ul.step-detail li{
-    margin-top: 10px;
-    border:1px solid grey;
+    margin-top: 5px;
+    border:1px solid white;
 }
 
 ul.step-detail li:first-child{
